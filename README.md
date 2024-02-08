@@ -5,6 +5,7 @@ This repository provides a comprehensive overview of PyTorch and deep learning f
 PyTorch is a powerful open-source machine learning library developed by Facebook's AI Research lab (FAIR). It provides a flexible and efficient framework for building and training deep learning models.
 
 ###Deep Learning Fundamentals
+
 ##1. Why Use Machine Learning (ML) and Deep Learning (DL)?
 ML and DL enable computers to learn from data and make predictions or decisions without being explicitly programmed.
 They excel at tasks involving complex patterns, such as image recognition, natural language understanding, and speech recognition.
