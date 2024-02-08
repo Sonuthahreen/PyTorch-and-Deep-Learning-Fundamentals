@@ -37,8 +37,13 @@ Reinforcement Learning: The model learns through trial and error by interacting 
 Deep learning has numerous applications across various domains, including:
 
 Computer Vision: Object detection, image classification, facial recognition.
+
 Natural Language Processing (NLP): Sentiment analysis, machine translation, text generation.
+
 Speech Recognition: Voice assistants, speech-to-text systems.
+
 Healthcare: Disease diagnosis, medical image analysis.
+
 Finance: Fraud detection, stock market prediction.
+
 Autonomous Vehicles: Object detection, path planning.
